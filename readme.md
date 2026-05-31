@@ -112,4 +112,6 @@ https://www.kaggle.com/code/yuyuntt/cv-wala-mega-ensemble-hubmap-2023
 
 
 ## Performance on Hubmap Competition
+<img width="1191" height="270" alt="截圖 2026-05-31 晚上11 28 36" src="https://github.com/user-attachments/assets/f23df224-6075-43b0-a974-4b424b1d96fb" />
+<img width="1053" height="75" alt="截圖 2026-05-31 晚上11 28 23" src="https://github.com/user-attachments/assets/2b85e01b-681f-44dd-894b-83d13ab14574" />
 
