@@ -15,6 +15,8 @@ We ensembled three top-tier computer vision models to ensure diverse feature ext
 * **Two-Stage Training for Noisy Labels (Noise Tolerance):** Models are initially pre-trained on the combined dataset (noisy + clean data) at a large scale. In the second stage, they are fine-tuned **exclusively on the high-quality, expert-annotated data** to prevent the models from overfitting to label errors.
 * **Custom Mask-Aware Ensemble:** We utilize the **Weighted Boxes Fusion (WBF)** algorithm to fuse predicted bounding boxes, followed by a pixel-level summation of the predicted masks from all three models, strictly retaining the precise microvascular regions within the fused boundaries.
 
+<img width="1024" height="1536" alt="model_architecture" src="https://github.com/user-attachments/assets/ec68da8a-d3e8-4e50-840e-94bbba349e08" />
+
 
 ## Environment Setup
 ```
